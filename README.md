@@ -1,2 +1,2 @@
-# hello-world
-Tutorial git
+# hola-mundo
+Quibo tutorial de ese git
